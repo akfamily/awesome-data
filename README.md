@@ -13,4 +13,5 @@
   - Investing.com offers free real time quotes, portfolio, streaming charts, financial news, live stock market data and more.
 - [Sina Finance](https://finance.sina.com.cn/)
   - Chinese financial data, offers stock, futures, options, fund and so on.
-  
+- [China Index Academy](https://industry.fang.com/)
+  - Chinese estate price data
