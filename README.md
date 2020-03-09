@@ -1,6 +1,6 @@
 # Awesome-data-show
 
-**P.S. if you want to add your favorite data source, please put an issue here!**
+**P.S. if you want to add your favorite data source, please put an issue in this repo!**
 
 ## Open Data Tools
 
