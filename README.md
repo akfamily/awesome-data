@@ -6,7 +6,15 @@
   - AkShare is an elegant and simple financial data interface library for Python, built for human beings!
 - [TuShare](https://github.com/waditu/tushare)
   - TuShare is a utility for crawling historical data of China stocks
+  
+## Financial Data SDK
 
+- [WindPy](https://www.wind.com.cn/download.aspx)
+  - This is an official SDK of [Wind](https://www.wind.com.cn/Default.aspx) database
+
+- [JQData](https://github.com/JoinQuant/jqdatasdk)
+  - This is an official SDK of [JoinQuant](https://www.joinquant.com/help/api/help?name=JQData) database
+ 
 ## Public Data Source
 
 - [Investing](https://cn.investing.com/)
