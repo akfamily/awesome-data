@@ -1,5 +1,7 @@
 # Awesome-data-show
 
+**P.S. if you want to add your favorite data source, please put an issue here!**
+
 ## Open Data Tools
 
 - [AkShare](https://github.com/jindaxiang/akshare)
