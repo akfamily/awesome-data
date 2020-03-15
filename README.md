@@ -20,6 +20,8 @@
 
 - [JQData](https://github.com/JoinQuant/jqdatasdk)
   - This is an official SDK of [JoinQuant](https://www.joinquant.com/help/api/help?name=JQData) database
+  
+- [RqData]
  
 ## Public Data Source
 
