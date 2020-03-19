@@ -11,7 +11,10 @@
   - TuShare is a utility for crawling historical data of China stocks
 
 - [Yfinance](https://github.com/ranaroussi/yfinance)
-  - Yfinance is a Yahoo! Finance market data downloader (+faster Pandas Datareader) 
+  - Yfinance is a Yahoo! Finance market data downloader (+faster Pandas Datareader)
+
+- [Wbdata](https://github.com/OliverSherouse/wbdata)
+  - A python library for accessing world bank data
   
 ## Financial Data SDK
 
