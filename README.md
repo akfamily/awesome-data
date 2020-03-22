@@ -16,6 +16,9 @@
 - [Wbdata](https://github.com/OliverSherouse/wbdata)
   - A python library for accessing world bank data
   
+- [Quandl](https://www.quandl.com/)
+  - The world’s most powerful data lives on Quandl
+  
 ## Financial Data SDK
 
 - [WindPy](https://www.wind.com.cn/download.aspx)
