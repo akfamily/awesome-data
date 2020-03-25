@@ -27,7 +27,7 @@
 - [JQData](https://github.com/JoinQuant/jqdatasdk)
   - This is an official SDK of [JoinQuant](https://www.joinquant.com/help/api/help?name=JQData) database
   
-- [RqData](https://www.ricequant.com/doc/rqdata-institutional#research-version)
+- [RQData](https://www.ricequant.com/doc/rqdata-institutional#research-version)
   - This is an institution oriented commercial Python financial data Toolkit from [RiceQuant](https://www.ricequant.com/welcome/)
  
 ## Public Data Source
