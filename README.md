@@ -7,7 +7,7 @@
 - [AkShare](https://github.com/jindaxiang/akshare)
   - AkShare is an elegant and simple financial data interface library for Python, built for human beings!
   
-- [TuShare](https://github.com/waditu/tushare)
+- [Tushare](https://github.com/waditu/tushare)
   - TuShare is a utility for crawling historical data of China stocks
 
 - [Yfinance](https://github.com/ranaroussi/yfinance)
