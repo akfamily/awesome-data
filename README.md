@@ -46,3 +46,6 @@
   
 - [China Index Academy](https://industry.fang.com/)
   - Chinese estate price data
+  
+- [World Bank Open Data](https://data.worldbank.org.cn/)
+  - Free to fetch data from world bank
