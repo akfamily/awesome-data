@@ -35,6 +35,9 @@
   
 - [RQData](https://www.ricequant.com/doc/rqdata-institutional#research-version)
   - This is an institution oriented commercial Python financial data Toolkit from [RiceQuant](https://www.ricequant.com/welcome/)
+
+- [TQSDK](https://github.com/shinnytech/tqsdk-python)
+  - This is SDK for shinnytech, it support futures tick and minute data for free.
  
 ## Public Data Source
 
