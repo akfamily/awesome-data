@@ -55,3 +55,6 @@
   
 - [World Bank Open Data](https://data.worldbank.org.cn/)
   - Free to fetch data from world bank
+
+- [商务数据中心](http://data.mofcom.gov.cn/index.shtml/)
+  - Free to fetch data from China
