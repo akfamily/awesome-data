@@ -4,8 +4,8 @@
 
 ## Open Data Tools
 
-- [AkShare](https://github.com/jindaxiang/akshare)
-  - AkShare is an elegant and simple financial data interface library for Python, built for human beings!
+- [AKShare](https://github.com/jindaxiang/akshare)
+  - AKShare is an elegant and simple financial data interface library for Python, built for human beings!
   
 - [Tushare](https://github.com/waditu/tushare)
   - TuShare is a utility for crawling historical data of China stocks
