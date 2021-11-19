@@ -59,5 +59,5 @@
 - [商务数据中心](http://data.mofcom.gov.cn/index.shtml/)
   - Free to fetch data from China
 
-- [Economic Research](https://fred.stlouisfed.org/)
+- [Economic Research(FRED)](https://fred.stlouisfed.org/)
   - Free to fetch data from Federal Reserve Bank
