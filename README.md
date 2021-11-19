@@ -19,9 +19,6 @@
 - [Quandl](https://www.quandl.com/)
   - The world’s most powerful data lives on Quandl
 
-- [Fushare](https://github.com/LowinLi/fushare)
-  - A utility for fundamentals data of China commodity futures
-  
 - [Investpy](https://github.com/alvarobartt/investpy)
   - Financial Data Extraction from Investing.com with Python
 
