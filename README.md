@@ -13,6 +13,9 @@
 - [Yfinance](https://github.com/ranaroussi/yfinance)
   - Yfinance is a Yahoo! Finance market data downloader (+faster Pandas Datareader)
 
+- [Pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/index.html#)
+  - Pandas-datareader is Python package! It aims to remote data access for pandas!
+
 - [Wbdata](https://github.com/OliverSherouse/wbdata)
   - A python library for accessing world bank data
   
