@@ -61,3 +61,12 @@
 
 - [Economic Research(FRED)](https://fred.stlouisfed.org/)
   - Free to fetch data from Federal Reserve Bank
+
+## 商业数据源
+
+- [萝卜投研](https://robo.datayes.com/)
+  - 通联数据股份公司开发的投研数据平台
+
+- [恒有数](https://udata.hs.net/home)
+  - 恒生电子提供的财经数据平台
+- 
