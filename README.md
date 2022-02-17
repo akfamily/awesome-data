@@ -1,4 +1,4 @@
-# Awesome-data-show
+# Awesome-data
 
 **P.S. if you want to add your favorite data source, please put an issue in this repo!**
 
