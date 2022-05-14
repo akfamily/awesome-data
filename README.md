@@ -69,3 +69,5 @@
 
 - [恒有数](https://udata.hs.net/home)
   - 恒生电子提供的财经数据平台
+- [百度财经](https://finance.baidu.com)
+  - 百度提供的财经数据平台
