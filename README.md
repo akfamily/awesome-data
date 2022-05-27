@@ -64,10 +64,17 @@
 
 ## 商业数据源
 
+- [CSMAR](https://www.gtarsc.com/)
+  - 深圳希施玛数据科技有限公司从学术研究需求出发，借鉴CRSP、COMPUSTAT、TAQ、THOMSON等权威数据库专业标准，并结合中国实际国情开发的经济金融领域的研究型精准数据库。
+
+- [CNRDS](https://www.cnrds.com/)
+  - 中国研究数据服务平台是一个高质量、开放式、平台化的中国经济、金融与商学研究的综合数据平台。
+
 - [萝卜投研](https://robo.datayes.com/)
   - 通联数据股份公司开发的投研数据平台
 
 - [恒有数](https://udata.hs.net/home)
   - 恒生电子提供的财经数据平台
+
 - [金数源](https://www.jinshuyuan.net)
   - 金数源是一家综合数据提供商
