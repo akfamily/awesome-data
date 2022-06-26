@@ -78,3 +78,6 @@
 
 - [金数源](https://www.jinshuyuan.net)
   - 金数源是一家综合数据提供商
+
+- [BankScope](https://www.bvdinfo.com/)
+  - 欧洲金融信息服务商 BvD 与银行业权威评级机构惠誉共同开发的银行业信息库
