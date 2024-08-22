@@ -90,3 +90,6 @@
 
 - [预测者网](https://www.yucezhe.com/)
   - 提供股票低中高频率、财务数据及加密货币的低中高频数据
+
+- [米筐量化平台](https://www.ricequant.com/welcome/datahub)
+  - 米筐提供相关股票、期货、期权等产品的行情和因子数据
