@@ -79,14 +79,14 @@
 - [恒有数](https://udata.hs.net/home)
   - 恒生电子提供的财经数据平台
 
-- [金数源](https://www.jinshuyuan.net)
-  - 金数源是一家综合数据提供商
-
 - [BankScope](https://www.bvdinfo.com/)
   - 欧洲金融信息服务商 BvD 与银行业权威评级机构惠誉共同开发的银行业信息库
 
 - [ChinaScope](https://www.chinascope.com/)
   - 数库科技长期致力于在金融及产业领域提供基于产业逻辑的智能数据产品及系统服务，是一家为金融机构、企业及政府部门在数字化转型领域提供完整成熟数据解决方案的综合服务商
+
+- [CnOpenData](https://www.cnopendata.com/)
+  - 汇聚了很多互联网数据，如果需要查找比较小众或者另类的数据，可以在此平台查找
 
 - [预测者网](https://www.yucezhe.com/)
   - 提供股票低中高频率、财务数据及加密货币的低中高频数据
