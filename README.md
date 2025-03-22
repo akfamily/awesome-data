@@ -25,6 +25,9 @@
 - [Investpy](https://github.com/alvarobartt/investpy)
   - Financial Data Extraction from Investing.com with Python
 
+- [Financial Data](https://financialdata.net/)
+  - Stock Market and Financial Data API
+
 ## Financial Data SDK
 
 - [WindPy](https://www.wind.com.cn/download.aspx)
