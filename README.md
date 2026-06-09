@@ -4,6 +4,9 @@
 
 ## Open Data Tools
 
+- [Adanos](https://adanos.org/)
+  - Market sentiment API for stocks using Reddit, X / FinTwit, financial news, and Polymarket signals.
+
 - [AKShare](https://github.com/akfamily/akshare)
   - AKShare is an elegant and simple financial data interface library for Python, built for human beings!
   
