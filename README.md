@@ -27,6 +27,9 @@
 
 - [Financial Data](https://financialdata.net/)
   - Stock Market and Financial Data API
+- [AgentServices](https://agentservices.to)
+  - AgentServices is a production x402-paid data API platform for AI agents. 54 services covering crypto market data, onchain analytics, FX rates, and indicators. MCP server with 37 tools. Per-call USDC settlement on Base.
+
 
 ## Financial Data SDK
 
