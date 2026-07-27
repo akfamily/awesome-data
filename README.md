@@ -44,6 +44,9 @@
  
 ## Public Data Source
 
+- [DepthFeed Prediction Market Liquidity Benchmark](https://depthfeed.com/arena/liquidity)
+  - Open CC BY 4.0 order-book dataset with 34,560 lifecycle-aligned observations across four prediction-market venues, plus [reproducible methodology and verification code](https://github.com/vcorp-dev/prediction-market-liquidity-benchmark).
+
 - [Investing](https://cn.investing.com)
   - Investing.com offers free real time quotes, portfolio, streaming charts, financial news, live stock market data and more.
   
