@@ -64,6 +64,7 @@
 
 - [Economic Research(FRED)](https://fred.stlouisfed.org)
   - Free to fetch data from Federal Reserve Bank
+- [Level SMB Financial Benchmarks & Trade Economy Index](https://levelcfo.com/benchmarks/) - Open CSV/JSON datasets covering 49,494 US contractor profiles, 315,393 budgeted jobs, 9.08M commercial buildings, and multi-vertical financial benchmarks ([GitHub](https://github.com/levelcfo/smb-financial-benchmarks) | [TradesIndex](https://tradesindex.org/data/)).
 
 ## 商业数据源
 
