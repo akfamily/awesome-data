@@ -101,11 +101,8 @@ A curated list of financial and economic data tools and data sources.
 - [萝卜投研 (Datayes Robo)](https://robo.datayes.com)
   - An investment research data platform developed by Datayes.
 
-- [恒有数 (Hundsun UData)](https://udata.hs.net/home)
-  - A financial data platform provided by Hundsun Technologies.
-
 - [BankScope](https://www.bvdinfo.com)
-  - A banking database jointly developed by Bureau van Dijk (BvD) and Fitch Ratings. BvD is now part of Moody's, and BankScope has been replaced by Orbis Bank Focus.
+  - A banking database jointly developed by Bureau van Dijk (BvD) and Fitch Ratings. BankScope was discontinued at the end of 2016 and replaced by BvD's BankFocus (formerly Orbis Bank Focus); BvD was acquired by Moody's in 2017.
 
 - [ChinaScope](https://www.chinascope.com.cn)
   - Industry-logic-based intelligent data products and solutions for financial institutions, enterprises and government agencies.

@@ -101,11 +101,8 @@
 - [萝卜投研](https://robo.datayes.com)
   - 通联数据股份公司开发的投研数据平台。
 
-- [恒有数](https://udata.hs.net/home)
-  - 恒生电子提供的财经数据平台。
-
 - [BankScope](https://www.bvdinfo.com)
-  - 欧洲金融信息服务商 BvD 与银行业权威评级机构惠誉共同开发的银行业信息库。BvD 现已并入穆迪（Moody's），BankScope 已由 Orbis Bank Focus 取代。
+  - 欧洲金融信息服务商 BvD 与银行业权威评级机构惠誉共同开发的银行业信息库。BankScope 已于 2016 年底停止服务，由 BvD 的 BankFocus（原名 Orbis Bank Focus）取代；BvD 已于 2017 年被穆迪（Moody's）收购。
 
 - [ChinaScope](https://www.chinascope.com.cn)
   - 数库科技长期致力于在金融及产业领域提供基于产业逻辑的智能数据产品及系统服务，为金融机构、企业及政府部门提供数字化转型数据解决方案。
