@@ -4,9 +4,6 @@
 
 ## Open Data Tools
 
-- [Adanos](https://adanos.org/)
-  - Market sentiment API for stocks using Reddit, X / FinTwit, financial news, and Polymarket signals.
-
 - [AKShare](https://github.com/akfamily/akshare)
   - AKShare is an elegant and simple financial data interface library for Python, built for human beings!
   
@@ -67,6 +64,15 @@
 
 - [Economic Research(FRED)](https://fred.stlouisfed.org)
   - Free to fetch data from Federal Reserve Bank
+
+- [Adanos](https://adanos.org/)
+  - Market sentiment API for stocks using Reddit, X / FinTwit, financial news, and Polymarket signals.
+
+- [Webb Database](https://webb-database.com/)
+  - Hong Kong listed companies, directors, shareholdings (CCASS) and governance data
+
+- [FXMacroData](https://fxmacrodata.com/)
+  - Macroeconomic releases, release calendars, FX spot rates and CFTC COT data covering 18 currencies
 
 ## 商业数据源
 
