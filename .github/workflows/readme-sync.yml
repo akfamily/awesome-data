@@ -1,0 +1,25 @@
+name: README sync
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - README.en.md
+      - .github/scripts/check_readme_sync.py
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - README.en.md
+      - .github/scripts/check_readme_sync.py
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Check README.md and README.en.md are in sync
+        run: python3 .github/scripts/check_readme_sync.py
