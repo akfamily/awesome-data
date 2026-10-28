@@ -157,6 +157,10 @@
   - 覆盖 18 种货币的宏观经济数据发布、发布日历、外汇即期汇率和 CFTC 持仓报告（COT）数据。
   - `付费` `API` `全球`
 
+- [Fear & Greed Index Bot](https://top.gg/bot/1125794469829169253)
+  - 在 Discord 中显示加密货币恐惧与贪婪指数的机器人，数据来自 alternative.me（备用 CoinMarketCap、CoinStats），可查看当天数值和最近 2-30 天的历史。
+  - `免费` `加密货币`
+
 ## 商业数据源
 
 - [CSMAR](https://www.csmar.com/)
