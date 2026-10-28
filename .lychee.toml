@@ -1,0 +1,13 @@
+# Configuration for the weekly link check (.github/workflows/link-check.yml).
+max_retries = 3
+retry_wait_time = 5
+timeout = 30
+accept = ["100..=103", "200..=299", "429"]
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+
+# Sites that block automated requests even though the links work in a browser.
+exclude = [
+  '^https?://([a-z]+\.)?investing\.com',
+  '^https://www\.sec\.gov/',
+  '^https://data\.imf\.org/',
+]

@@ -1,0 +1,41 @@
+name: Link check
+
+on:
+  schedule:
+    - cron: "0 1 * * 1" # every Monday 01:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --config .lychee.toml --no-progress README.md README.en.md CONTRIBUTING.md
+          fail: false
+
+      - name: Find open link-check issue
+        if: steps.lychee.outputs.exit_code != 0
+        id: existing
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          number=$(gh issue list --repo "$GITHUB_REPOSITORY" --label link-check --state open --json number --jq '.[0].number')
+          echo "number=$number" >> "$GITHUB_OUTPUT"
+
+      - name: Create or update issue
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: Broken links found by weekly link check
+          content-filepath: ./lychee/out.md
+          issue-number: ${{ steps.existing.outputs.number }}
+          labels: link-check

@@ -1,0 +1,79 @@
+name: 推荐数据源 / Suggest a data source
+description: 推荐一个金融或经济数据源 / Suggest a financial or economic data source
+title: "[数据源 / Data source] "
+labels: ["data-source"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢推荐！提交前请先阅读 [CONTRIBUTING.md](https://github.com/akfamily/awesome-data/blob/main/CONTRIBUTING.md) 中的收录标准，中文或英文填写均可。
+        Thanks for your suggestion! Please read the inclusion criteria in [CONTRIBUTING.md](https://github.com/akfamily/awesome-data/blob/main/CONTRIBUTING.md) first. You can write in Chinese or English.
+  - type: input
+    id: name
+    attributes:
+      label: 名称 / Name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 链接 / Link
+      description: 官网、文档或代码仓库地址 / Official website, documentation or repository
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 一句话简介 / One-line description
+      description: 提供哪些数据，覆盖哪些市场 / What data it provides and which markets it covers
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 建议分类 / Suggested category
+      options:
+        - 开源数据工具 / Open Data Tools
+        - 金融数据 SDK / Financial Data SDK
+        - 公开数据源 / Public Data Sources
+        - 商业数据源 / Commercial Data Sources
+    validations:
+      required: true
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: 费用 / Pricing
+      options:
+        - 免费 / Free
+        - 免费增值 / Freemium
+        - 付费 / Paid
+    validations:
+      required: true
+  - type: dropdown
+    id: access
+    attributes:
+      label: 访问方式 / Access
+      multiple: true
+      options:
+        - 无需注册 / No registration
+        - 需要注册 / Registration required
+        - 需要 API Key / API key required
+        - 提供 API / API available
+    validations:
+      required: true
+  - type: dropdown
+    id: affiliation
+    attributes:
+      label: 你与该数据源的关系 / Your affiliation
+      description: 自荐不影响审核，但请如实说明 / Self-submissions are fine, but please disclose them
+      options:
+        - 我只是用户 / I am only a user
+        - 我是开发者或运营方 / I build or operate it
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 补充说明 / Additional notes
+      description: 例如使用量、维护情况、数据许可证 / e.g. adoption, maintenance status, data license
