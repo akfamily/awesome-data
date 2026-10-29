@@ -157,6 +157,10 @@ A curated list of financial and economic data tools and data sources.
   - Macroeconomic releases, release calendars, FX spot rates and CFTC COT data covering 18 currencies.
   - `Paid` `API` `Global`
 
+- [Crypto Fear & Greed Index (alternative.me)](https://alternative.me/crypto/fear-and-greed-index/)
+  - A daily index of cryptocurrency market sentiment, with a free API and historical data; attribution is required.
+  - `Free` `API` `Crypto`
+
 ## Commercial Data Sources
 
 - [CSMAR](https://www.csmar.com/)
