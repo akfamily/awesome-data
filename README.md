@@ -157,6 +157,10 @@
   - 覆盖 18 种货币的宏观经济数据发布、发布日历、外汇即期汇率和 CFTC 持仓报告（COT）数据。
   - `付费` `API` `全球`
 
+- [加密货币恐惧与贪婪指数（alternative.me）](https://alternative.me/crypto/fear-and-greed-index/)
+  - 衡量加密货币市场情绪的每日指数，提供免费 API 和历史数据，使用时需注明数据来源。
+  - `免费` `API` `加密货币`
+
 ## 商业数据源
 
 - [CSMAR](https://www.csmar.com/)
