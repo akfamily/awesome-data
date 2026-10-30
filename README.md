@@ -41,6 +41,10 @@
   - 从雅虎财经（Yahoo! Finance）下载行情数据的 Python 库。
   - `免费` `全球`
 
+- [AI Quant Nav（AI 量化导航）](https://aiquantnav.com/en/compare/yfinance-vs-akshare-vs-openbb-vs-eodhd)
+  - 免费对比 yfinance / AKShare / OpenBB / EODHD 等行情数据工具的市场覆盖、授权与维护情况。
+  - `免费` `中国` `全球`
+
 - [Pandas-datareader](https://pandas-datareader.readthedocs.io/)
   - 为 pandas 提供远程数据访问的 Python 库。
   - `免费` `全球`

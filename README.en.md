@@ -41,6 +41,10 @@ A curated list of financial and economic data tools and data sources.
   - A Python library for downloading market data from Yahoo! Finance.
   - `Free` `Global`
 
+- [AI Quant Nav](https://aiquantnav.com/en/compare/yfinance-vs-akshare-vs-openbb-vs-eodhd)
+  - Free side-by-side comparison of market-data libraries (yfinance, AKShare, OpenBB, EODHD) by coverage, markets, and licensing.
+  - `Free` `China` `Global`
+
 - [Pandas-datareader](https://pandas-datareader.readthedocs.io/)
   - A Python package providing remote data access for pandas.
   - `Free` `Global`
