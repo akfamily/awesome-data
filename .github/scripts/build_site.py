@@ -90,6 +90,10 @@ TEMPLATE = """<!doctype html>
   <meta property="og:title" content="{title}">
   <meta property="og:description" content="{description}">
   <meta property="og:url" content="{url}">
+  <meta property="og:image" content="https://akfamily.xyz/assets/og/akhub.png">
+  <meta property="og:image:width" content="1280">
+  <meta property="og:image:height" content="640">
+  <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="{home_url}favicon.ico">
   <style>{css}</style>
 </head>
