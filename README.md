@@ -137,6 +137,10 @@
   - 股票市场情绪 API，信号来自 Reddit、X（FinTwit）、财经新闻和 Polymarket。
   - `免费增值` `API` `美国`
 
+- [Equibles](https://equibles.com/)
+  - 美股市场数据，可通过 MCP 服务器和 REST API 获取：SEC 文件、财务报表、财报电话会议记录、内部人和美国国会议员交易、13F 持仓、空头持仓和期权。
+  - `免费增值` `API` `美国`
+
 - [英为财情（Investing）](https://cn.investing.com)
   - 提供免费的实时行情、投资组合、走势图、财经新闻和股市数据等。
   - `免费` `全球`
