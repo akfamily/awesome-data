@@ -1,10 +1,10 @@
-# Awesome-quant-data
+# AKHub
 
 简体中文 | [English](README.en.md)
 
-常用的金融与经济数据工具、数据源、量化投研框架和学习资源合集。
+AKHub 是 [AKFamily](https://akfamily.xyz) 维护的金融与经济数据工具、数据源、量化投研框架和学习资源合集。
 
-> 欢迎推荐你常用的数据源和量化工具！请在本仓库[提交 issue](https://github.com/akfamily/awesome-quant-data/issues/new/choose)，中文或英文均可，详见[参与贡献](#参与贡献)。
+> 欢迎推荐你常用的数据源和量化工具！请在本仓库[提交 issue](https://github.com/akfamily/akhub/issues/new/choose)，中文或英文均可，详见[参与贡献](#参与贡献)。
 
 ## 目录
 
@@ -253,7 +253,7 @@
 
 ## 参与贡献
 
-推荐数据源或量化工具请使用 [issue 模板](https://github.com/akfamily/awesome-quant-data/issues/new/choose)，收录标准和提交 PR 的要求见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+推荐数据源或量化工具请使用 [issue 模板](https://github.com/akfamily/akhub/issues/new/choose)，收录标准和提交 PR 的要求见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## 许可证
 

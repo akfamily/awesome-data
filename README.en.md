@@ -1,10 +1,10 @@
-# Awesome-quant-data
+# AKHub
 
 [简体中文](README.md) | English
 
-A curated list of financial and economic data tools, data sources, quant research frameworks and learning resources.
+AKHub is a curated list of financial and economic data tools, data sources, quant research frameworks and learning resources, maintained by [AKFamily](https://akfamily.xyz).
 
-> Contributions are welcome! To suggest a data source or quant tool, please [open an issue](https://github.com/akfamily/awesome-quant-data/issues/new/choose) in English or Chinese. See [Contributing](#contributing) for details.
+> Contributions are welcome! To suggest a data source or quant tool, please [open an issue](https://github.com/akfamily/akhub/issues/new/choose) in English or Chinese. See [Contributing](#contributing) for details.
 
 ## Contents
 
@@ -253,7 +253,7 @@ The following entries no longer work or have been replaced by other products. Th
 
 ## Contributing
 
-Please use the [issue templates](https://github.com/akfamily/awesome-quant-data/issues/new/choose) to suggest a data source or quant tool. See [CONTRIBUTING.md](CONTRIBUTING.md) for inclusion criteria and PR requirements.
+Please use the [issue templates](https://github.com/akfamily/akhub/issues/new/choose) to suggest a data source or quant tool. See [CONTRIBUTING.md](CONTRIBUTING.md) for inclusion criteria and PR requirements.
 
 ## License
 

@@ -6,8 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        感谢推荐！提交前请先阅读 [CONTRIBUTING.md](https://github.com/akfamily/awesome-quant-data/blob/main/CONTRIBUTING.md) 中的收录标准，中文或英文填写均可。
-        Thanks for your suggestion! Please read the inclusion criteria in [CONTRIBUTING.md](https://github.com/akfamily/awesome-quant-data/blob/main/CONTRIBUTING.md) first. You can write in Chinese or English.
+        感谢推荐！提交前请先阅读 [CONTRIBUTING.md](https://github.com/akfamily/akhub/blob/main/CONTRIBUTING.md) 中的收录标准，中文或英文填写均可。
+        Thanks for your suggestion! Please read the inclusion criteria in [CONTRIBUTING.md](https://github.com/akfamily/akhub/blob/main/CONTRIBUTING.md) first. You can write in Chinese or English.
   - type: input
     id: name
     attributes:

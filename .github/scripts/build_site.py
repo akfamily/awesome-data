@@ -1,4 +1,4 @@
-"""Build the static site at https://akfamily.xyz/awesome-quant-data/.
+"""Build the static site at https://akfamily.xyz/akhub/.
 
 README.md becomes index.html and README.en.md becomes en/index.html, so the
 README files stay the only source of content. Run locally with:
@@ -18,8 +18,8 @@ from mdit_py_plugins.anchors import anchors_plugin
 
 ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "_site"
-REPO = "https://github.com/akfamily/awesome-quant-data"
-SITE = "https://akfamily.xyz/awesome-quant-data/"
+REPO = "https://github.com/akfamily/akhub"
+SITE = "https://akfamily.xyz/akhub/"
 
 PAGES = [
     {

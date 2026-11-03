@@ -6,7 +6,7 @@
 
 ## 如何推荐数据源
 
-请使用 [issue 模板](https://github.com/akfamily/awesome-quant-data/issues/new/choose)提交，中文或英文均可。维护者审核通过后会将其加入列表。
+请使用 [issue 模板](https://github.com/akfamily/akhub/issues/new/choose)提交，中文或英文均可。维护者审核通过后会将其加入列表。
 
 ## 收录标准
 
@@ -46,7 +46,7 @@ Thanks for helping improve this list!
 
 ### How to suggest a data source
 
-Please use the [issue templates](https://github.com/akfamily/awesome-quant-data/issues/new/choose), in English or Chinese. A maintainer will review it and add it to the list if it is accepted.
+Please use the [issue templates](https://github.com/akfamily/akhub/issues/new/choose), in English or Chinese. A maintainer will review it and add it to the list if it is accepted.
 
 ### Inclusion criteria
 
