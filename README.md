@@ -1,10 +1,10 @@
-# Awesome-data
+# Awesome-quant-data
 
 简体中文 | [English](README.en.md)
 
-常用的金融与经济数据工具和数据源合集。
+常用的金融与经济数据工具、数据源、量化投研框架和学习资源合集。
 
-> 欢迎推荐你常用的数据源！请在本仓库[提交 issue](https://github.com/akfamily/awesome-data/issues/new/choose)，中文或英文均可，详见[参与贡献](#参与贡献)。
+> 欢迎推荐你常用的数据源和量化工具！请在本仓库[提交 issue](https://github.com/akfamily/awesome-quant-data/issues/new/choose)，中文或英文均可，详见[参与贡献](#参与贡献)。
 
 ## 目录
 
@@ -13,6 +13,8 @@
 - [金融数据 SDK](#金融数据-sdk)
 - [公开数据源](#公开数据源)
 - [商业数据源](#商业数据源)
+- [量化投研框架](#量化投研框架)
+- [学习资源](#学习资源)
 - [已停止维护](#已停止维护)
 - [参与贡献](#参与贡献)
 - [许可证](#许可证)
@@ -199,6 +201,46 @@
   - 提供股票、期货、期权等产品的行情和因子数据。
   - `付费` `中国`
 
+## 量化投研框架
+
+- [AKQuant](https://github.com/akfamily/akquant)
+  - Rust 内核、Python 接口的高性能量化回测与实盘框架，内置滚动训练、TA-Lib 兼容指标和因子表达式引擎。
+  - `免费` `中国`
+
+- [PyBroker](https://github.com/edtechre/pybroker)
+  - 侧重机器学习的 Python 回测框架，支持滚动前向分析（Walk-forward），内置 AKShare 数据源。
+  - `免费` `全球`
+
+- [NautilusTrader](https://github.com/nautechsystems/nautilus_trader)
+  - Rust 内核的高性能事件驱动交易平台，回测与实盘使用同一套策略代码。
+  - `免费` `全球`
+
+- [VeighNa](https://github.com/vnpy/vnpy)
+  - 基于 Python 的开源量化交易平台开发框架（原名 vn.py），对接国内期货、证券等多种交易接口。
+  - `免费` `中国`
+
+- [Backtrader](https://github.com/mementum/backtrader)
+  - 老牌事件驱动回测框架，社区资料丰富；2024 年后已基本停止更新。
+  - `免费` `全球`
+
+- [QuantStats](https://github.com/ranaroussi/quantstats)
+  - 投资组合绩效与风险分析库，可一键生成 HTML 分析报告。
+  - `免费` `全球`
+
+- [RustQuant](https://github.com/avhz/RustQuant)
+  - Rust 量化金融库，涵盖期权定价、随机过程、利率曲线等。
+  - `免费` `全球`
+
+## 学习资源
+
+- [QuantEcon](https://python.quantecon.org/)
+  - 用 Python 讲解经济学与金融建模的开源讲义，由 Thomas J. Sargent 和 John Stachurski 主持。
+  - `免费` `全球`
+
+- [Quantocracy](https://quantocracy.com/)
+  - 量化交易博客文章聚合站，每日汇总新发布的研究与策略文章。
+  - `免费` `全球`
+
 ## 已停止维护
 
 以下条目已无法正常使用或已被其他产品取代，仅作记录。
@@ -211,7 +253,7 @@
 
 ## 参与贡献
 
-推荐数据源请使用 [issue 模板](https://github.com/akfamily/awesome-data/issues/new/choose)，收录标准和提交 PR 的要求见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+推荐数据源或量化工具请使用 [issue 模板](https://github.com/akfamily/awesome-quant-data/issues/new/choose)，收录标准和提交 PR 的要求见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## 许可证
 

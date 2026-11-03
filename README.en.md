@@ -1,10 +1,10 @@
-# Awesome-data
+# Awesome-quant-data
 
 [简体中文](README.md) | English
 
-A curated list of financial and economic data tools and data sources.
+A curated list of financial and economic data tools, data sources, quant research frameworks and learning resources.
 
-> Contributions are welcome! To suggest a data source, please [open an issue](https://github.com/akfamily/awesome-data/issues/new/choose) in English or Chinese. See [Contributing](#contributing) for details.
+> Contributions are welcome! To suggest a data source or quant tool, please [open an issue](https://github.com/akfamily/awesome-quant-data/issues/new/choose) in English or Chinese. See [Contributing](#contributing) for details.
 
 ## Contents
 
@@ -13,6 +13,8 @@ A curated list of financial and economic data tools and data sources.
 - [Financial Data SDK](#financial-data-sdk)
 - [Public Data Sources](#public-data-sources)
 - [Commercial Data Sources](#commercial-data-sources)
+- [Quant Research Frameworks](#quant-research-frameworks)
+- [Learning Resources](#learning-resources)
 - [Discontinued](#discontinued)
 - [Contributing](#contributing)
 - [License](#license)
@@ -199,6 +201,46 @@ A curated list of financial and economic data tools and data sources.
   - Market and factor data for stocks, futures, options and more.
   - `Paid` `China`
 
+## Quant Research Frameworks
+
+- [AKQuant](https://github.com/akfamily/akquant)
+  - High-performance backtesting and live trading framework with a Rust core and a Python API, featuring walk-forward training, TA-Lib-compatible indicators and a factor expression engine.
+  - `Free` `China`
+
+- [PyBroker](https://github.com/edtechre/pybroker)
+  - Python backtesting framework focused on machine learning, with walk-forward analysis and a built-in AKShare data source.
+  - `Free` `Global`
+
+- [NautilusTrader](https://github.com/nautechsystems/nautilus_trader)
+  - High-performance, event-driven trading platform with a Rust core; the same strategy code runs in backtesting and live trading.
+  - `Free` `Global`
+
+- [VeighNa](https://github.com/vnpy/vnpy)
+  - Open-source Python framework for building quant trading platforms (formerly vn.py), with gateways to Chinese futures, securities and other brokers.
+  - `Free` `China`
+
+- [Backtrader](https://github.com/mementum/backtrader)
+  - Long-standing event-driven backtesting framework with plenty of community material; largely unmaintained since 2024.
+  - `Free` `Global`
+
+- [QuantStats](https://github.com/ranaroussi/quantstats)
+  - Portfolio performance and risk analytics library that generates HTML tear sheets.
+  - `Free` `Global`
+
+- [RustQuant](https://github.com/avhz/RustQuant)
+  - Rust library for quantitative finance, covering option pricing, stochastic processes, yield curves and more.
+  - `Free` `Global`
+
+## Learning Resources
+
+- [QuantEcon](https://python.quantecon.org/)
+  - Open-source lectures on economic and financial modeling with Python, led by Thomas J. Sargent and John Stachurski.
+  - `Free` `Global`
+
+- [Quantocracy](https://quantocracy.com/)
+  - Aggregator of quantitative trading blog posts, updated daily with new research and strategy articles.
+  - `Free` `Global`
+
 ## Discontinued
 
 The following entries no longer work or have been replaced by other products. They are kept for reference only.
@@ -211,7 +253,7 @@ The following entries no longer work or have been replaced by other products. Th
 
 ## Contributing
 
-Please use the [issue templates](https://github.com/akfamily/awesome-data/issues/new/choose) to suggest a data source. See [CONTRIBUTING.md](CONTRIBUTING.md) for inclusion criteria and PR requirements.
+Please use the [issue templates](https://github.com/akfamily/awesome-quant-data/issues/new/choose) to suggest a data source or quant tool. See [CONTRIBUTING.md](CONTRIBUTING.md) for inclusion criteria and PR requirements.
 
 ## License
 
