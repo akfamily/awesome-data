@@ -1,6 +1,6 @@
 name: Pages
 
-# 把 README.md / README.en.md 生成静态页面，发布到 https://akfamily.xyz/akhub/
+# 把 README.md / README.en.md 生成静态页面，发布到 https://akhub.akfamily.xyz/
 on:
   push:
     branches: [main]

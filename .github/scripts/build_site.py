@@ -1,4 +1,4 @@
-"""Build the static site at https://akfamily.xyz/akhub/.
+"""Build the static site at https://akhub.akfamily.xyz/.
 
 README.md becomes index.html and README.en.md becomes en/index.html, so the
 README files stay the only source of content. Run locally with:
@@ -19,7 +19,8 @@ from mdit_py_plugins.anchors import anchors_plugin
 ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "_site"
 REPO = "https://github.com/akfamily/akhub"
-SITE = "https://akfamily.xyz/akhub/"
+SITE = "https://akhub.akfamily.xyz/"
+HOME = "https://akfamily.xyz/"
 
 PAGES = [
     {
@@ -89,15 +90,15 @@ TEMPLATE = """<!doctype html>
   <meta property="og:title" content="{title}">
   <meta property="og:description" content="{description}">
   <meta property="og:url" content="{url}">
-  <link rel="icon" href="/favicon.ico">
+  <link rel="icon" href="{home_url}favicon.ico">
   <style>{css}</style>
 </head>
 <body>
   <header class="nav">
     <div class="wrap nav-inner">
-      <a class="brand" href="/"><span class="ak">AK</span>Family</a>
+      <a class="brand" href="{home_url}"><span class="ak">AK</span>Family</a>
       <nav>
-        <a href="/">{home}</a>
+        <a href="{home_url}">{home}</a>
         <a href="{repo_url}" target="_blank" rel="noopener">{repo}</a>
       </nav>
     </div>
@@ -188,6 +189,7 @@ def main():
                 site=SITE,
                 css=CSS,
                 home=page["home"],
+                home_url=HOME,
                 repo=page["repo"],
                 repo_url=REPO,
                 body=body,
