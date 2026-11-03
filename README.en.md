@@ -137,6 +137,10 @@ A curated list of financial and economic data tools and data sources.
   - Market sentiment API for stocks using Reddit, X / FinTwit, financial news, and Polymarket signals.
   - `Freemium` `API` `US`
 
+- [Equibles](https://equibles.com/)
+  - US stock market data through an MCP server and REST API: SEC filings, financial statements, earnings call transcripts, insider and congressional trades, 13F holdings, short interest and options.
+  - `Freemium` `API` `US`
+
 - [Investing](https://www.investing.com)
   - Free real-time quotes, portfolios, streaming charts, financial news, live stock market data and more.
   - `Free` `Global`
