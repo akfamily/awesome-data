@@ -166,6 +166,7 @@ AKHub 是 [AKFamily](https://akfamily.xyz) 维护的金融与经济数据工具�
 - [加密货币恐惧与贪婪指数（alternative.me）](https://alternative.me/crypto/fear-and-greed-index/)
   - 衡量加密货币市场情绪的每日指数，提供免费 API 和历史数据，使用时需注明数据来源。
   - `免费` `API` `加密货币`
+- [StatOrigin](https://statorigin.org) - 免费、开源的行业统计数据库，覆盖 32 个行业；每个数字都能追溯到原始出处（出版方、报告、页码、句子），引用前可先核实。
 
 ## 商业数据源
 
