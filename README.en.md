@@ -185,6 +185,10 @@ AKHub is a curated list of financial and economic data tools, data sources, quan
   - An investment research data platform developed by Datayes.
   - `Freemium` `China`
 
+- [慧博投研资讯 (Hibor)](https://www.hibor.com.cn)
+  - A collection of brokerage research reports, morning meeting notes and industry reports, useful for reading sell-side research; registration required, some content is paid, no API.
+  - `Freemium` `China`
+
 - [ChinaScope](https://www.chinascope.com.cn)
   - Industry-logic-based intelligent data products and solutions for financial institutions, enterprises and government agencies.
   - `Paid` `China`
